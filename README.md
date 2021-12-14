@@ -20,6 +20,8 @@ Folder Structure
     ├── Region_Mobility_Report_CSV
       ├── 2020_US_Region_Mobility_Report.csv
       ├── 2021_US_Region_Mobility_Report.csv
+├── Mobility Analysis.ipynb
+├── Preliminary Analysis.ipynb
 └── Assignment Deliverables
     ├── A4
       ├── Visualization Explanation.doc
