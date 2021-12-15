@@ -41,5 +41,5 @@ Folder Structure
 - https://www.google.com/covid19/mobility/
 
 ## Issues
-I wasn't able to upload the data_raw files to github due to file size issues - instead the data can be found in the following google drink link https://drive.google.com/file/d/10aI0ykpJfToWNVhMpw0pL9yoJ0zdVkJl/view?usp=sharing
+I wasn't able to upload the data_raw files to github due to file size issues - instead the data can be found in the following google drink link https://drive.google.com/drive/folders/1G3zVv7krOgqjtFhI0beoBWYYgra5U29s?usp=sharing
 
